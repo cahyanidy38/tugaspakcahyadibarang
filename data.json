@@ -1,0 +1,14 @@
+[
+    {
+        "id": "673abcd903206",
+        "nama": "teh matcha",
+        "harga": "15000",
+        "stok": "50"
+    },
+    {
+        "id": "675667bc9a9c1",
+        "nama": "Es Taro",
+        "harga": "15000",
+        "stok": "100"
+    }
+]
